@@ -1,4 +1,4 @@
-# Plan-de-trabajo
+# Cualidades de la app
 Este proyecto pretende crear una aplicacio que sirva de Guia para los estudiantes eafitenses brindandoles la siguiente informacion.
 
 # 1) Calendario de actividades y eventos programados en la universidad:
